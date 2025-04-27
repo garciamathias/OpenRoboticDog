@@ -21,7 +21,23 @@ The following materials are needed to build the quadruped robot:
 > **Note:** Most of these components are the same as those used in the [LeRobot project](https://github.com/TheRobotStudio/SO-ARM100?tab=readme-ov-file) by Hugging Face.
 
 ## Description
-This repository contains the codebase for an open-source quadruped robot project. The project aims to provide a complete solution for building and controlling a four-legged robotic dog.
+This project aims to create an affordable, autonomous quadruped robot that anyone can build at home. The goal is to develop a robot capable of performing basic autonomous movements like walking, turning, and basic navigation while keeping the total cost under $250 (excluding 3D printing material).
+
+Key features of this project:
+- **Affordable**: Total cost under $250 for all electronic components
+- **Home-built**: All parts can be 3D printed at home or through a printing service
+- **Autonomous**: Capable of performing basic movements without remote control
+- **Open-source**: Complete documentation and code will be available for everyone
+- **Educational**: Great project for learning robotics, programming, and 3D printing
+
+The robot will be able to perform various autonomous movements such as:
+- Walking forward and backward
+- Turning left and right
+- Basic obstacle avoidance
+- Standing up and lying down
+- Maintaining balance
+
+This project is designed to be accessible to hobbyists, students, and robotics enthusiasts who want to learn about quadruped robotics without breaking the bank.
 
 ## Features
 - Quadruped robot control
