@@ -1,4 +1,4 @@
-![OpenRoboticDog](https://raw.githubusercontent.com/mathiasgarcia/Quadruped/main/illustration.png)
+![OpenRoboticDog](illustration.png)
 
 # OpenRoboticDog
 
